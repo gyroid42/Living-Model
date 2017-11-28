@@ -5,7 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - top-down-cam
-  - New Tag
+  - Winston
+  - Shroom
+  - Hut
+  - House
+  - Cube
   layers:
   - Default
   - TransparentFX
